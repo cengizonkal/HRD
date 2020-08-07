@@ -1,2 +1,2 @@
 # HRD
-HRD Projesi
+ Proje
