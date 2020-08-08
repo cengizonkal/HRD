@@ -17,6 +17,10 @@ Veritabanı için
 
 yapılması gerekmektedir.
 
+```
+username:hcetin@email.com
+password:password
+```
 
  
  
