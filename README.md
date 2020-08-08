@@ -5,12 +5,18 @@
  
  Proje İndirildikten sonra 
  
- 1- composer install
+ ```composer install```
  
- 2- php artisan key:generate
+ ```php artisan key:generate```
 
-Veritabı için 
+Veritabanı için 
 
-php artisan migrate yapılması gerekmektedir.
+```php artisan migrate```
+ 
+```php artisan db:seed``` 
+
+yapılması gerekmektedir.
+
+
  
  
