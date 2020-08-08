@@ -22,5 +22,6 @@ username:hcetin@email.com
 password:password
 ```
 
+postman https://www.getpostman.com/collections/7af7fbd632ee5cc5fc71
  
  

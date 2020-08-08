@@ -11,6 +11,6 @@ class Order extends Model
     protected $table = 'orders';
     protected $primaryKey = 'id';
     protected $fillable = [
-        'productId','orderCode', 'quantity', 'adress', 'shippingDate'
+        'productId','orderCode', 'quantity', 'address', 'shippingDate'
     ];
 }
